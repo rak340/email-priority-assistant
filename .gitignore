@@ -1,0 +1,13 @@
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Streamlit local state
+.streamlit/secrets.toml
+.streamlit/*.json
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db

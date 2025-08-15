@@ -1,0 +1,179 @@
+{"subject": "Deadline today: contract signature required", "body": "Customers report failures during checkout since 02:00. Error code 502 observed across regions. Need immediate triage and rollback plan. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Immediate fix required: login failures", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation.", "label": "Urgent"}
+{"subject": "Deadline: submit monthly report by 4 PM", "body": "Security scanner flagged critical CVE on production image. Patch and redeploy required before close of business. Tracking under ticket ID #9605", "label": "Urgent"}
+{"subject": "Production incident: API timeouts", "body": "Customers report failures during checkout since 02:00. Error code 502 observed across regions. Need immediate triage and rollback plan. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Immediate fix required: login failures", "body": "On-call engineer requires VPN access to perform fix. Approve temporary access immediately.", "label": "Urgent"}
+{"subject": "Deadline: submit monthly report by 4 PM", "body": "Data integrity checks failed for orders table. Potential partial writes detected. Freeze deploys and start recovery plan. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Urgent: incident bridge starting now", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Urgent approval needed for deployment", "body": "Customers report failures during checkout since 02:00. Error code 502 observed across regions. Need immediate triage and rollback plan. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Urgent: incident bridge starting now", "body": "DB pool exhaustion causing cascading failures. Increase pool size and identify long-running queries. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "High priority: data corruption detected", "body": "DB pool exhaustion causing cascading failures. Increase pool size and identify long-running queries.", "label": "Urgent"}
+{"subject": "Sev1: 500 errors in /orders", "body": "Contract must be signed today to avoid project delay. Please review final terms and confirm signature. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Sev1 paging: disk space critically low", "body": "Deployment is blocked pending security approval. Please review the change request and approve if acceptable.", "label": "Urgent"}
+{"subject": "Urgent: SLA at risk for ticket 9821", "body": "Monthly report due by 4 PM. Numbers need final verification before submission. Tracking under ticket ID #9128", "label": "Urgent"}
+{"subject": "Immediate action needed: security alert", "body": "Monthly report due by 4 PM. Numbers need final verification before submission. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Sev1: memory leak on backend", "body": "Vendor returned redlines. Legal and PM to provide decisions within the hour.", "label": "Urgent"}
+{"subject": "Production incident: API timeouts", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Immediate action needed: security alert", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation.", "label": "Urgent"}
+{"subject": "Sev1: 500 errors in /orders", "body": "Deployment is blocked pending security approval. Please review the change request and approve if acceptable. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "System down: payment gateway failures", "body": "Memory usage climbing steadily leading to OOM kills. Collect heap dump and restart impacted pods. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Urgent approval needed for deployment", "body": "Security scanner flagged critical CVE on production image. Patch and redeploy required before close of business. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Deadline: submit monthly report by 4 PM", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation. Tracking under ticket ID #9168", "label": "Urgent"}
+{"subject": "Sev1: 500 errors in /orders", "body": "Deployment is blocked pending security approval. Please review the change request and approve if acceptable. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Immediate fix required: login failures", "body": "DB pool exhaustion causing cascading failures. Increase pool size and identify long-running queries.", "label": "Urgent"}
+{"subject": "Immediate fix required: login failures", "body": "Multiple clients experiencing 500s on /api/payments. Pager triggered. Join incident bridge and provide current status within 5 minutes. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Sev1: 500 errors in /orders", "body": "Deployment is blocked pending security approval. Please review the change request and approve if acceptable. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Immediate review: vendor contract redlines", "body": "DB pool exhaustion causing cascading failures. Increase pool size and identify long-running queries. Tracking under ticket ID #9218", "label": "Urgent"}
+{"subject": "Sev1: 500 errors in /orders", "body": "SLA breach likely for P1 ticket 9821 without action. Escalate to L3 support immediately. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Escalation: customer cannot access account", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Deadline: submit monthly report by 4 PM", "body": "Deployment is blocked pending security approval. Please review the change request and approve if acceptable. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Urgent: incident bridge starting now", "body": "Vendor returned redlines. Legal and PM to provide decisions within the hour. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Immediate fix required: login failures", "body": "Key account cannot access the portal. Error 'account_locked'. Need manual override and root-cause analysis. Tracking under ticket ID #9522", "label": "Urgent"}
+{"subject": "Immediate action needed: security alert", "body": "Multiple clients experiencing 500s on /api/payments. Pager triggered. Join incident bridge and provide current status within 5 minutes.", "label": "Urgent"}
+{"subject": "Escalation: customer cannot access account", "body": "Payment gateway returning 'DoNotHonor' spikes. Investigate gateway provider status and switch to fallback. Tracking under ticket ID #9812", "label": "Urgent"}
+{"subject": "Sev1 paging: disk space critically low", "body": "Security scanner flagged critical CVE on production image. Patch and redeploy required before close of business. Tracking under ticket ID #9395", "label": "Urgent"}
+{"subject": "Sev1 paging: disk space critically low", "body": "SLA breach likely for P1 ticket 9821 without action. Escalate to L3 support immediately. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Deadline: submit monthly report by 4 PM", "body": "Customers report failures during checkout since 02:00. Error code 502 observed across regions. Need immediate triage and rollback plan.", "label": "Urgent"}
+{"subject": "Deadline: submit monthly report by 4 PM", "body": "Deployment is blocked pending security approval. Please review the change request and approve if acceptable. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Deadline today: contract signature required", "body": "Error rate jumped above 10% after release 2.3. Roll back or hotfix ASAP. Provide ETA to stakeholders. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Urgent: SLA at risk for ticket 9821", "body": "Customers report failures during checkout since 02:00. Error code 502 observed across regions. Need immediate triage and rollback plan. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Urgent access request for on-call engineer", "body": "Payment gateway returning 'DoNotHonor' spikes. Investigate gateway provider status and switch to fallback.", "label": "Urgent"}
+{"subject": "Hot issue: error rates spiking", "body": "On-call engineer requires VPN access to perform fix. Approve temporary access immediately. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Escalation: customer cannot access account", "body": "Memory usage climbing steadily leading to OOM kills. Collect heap dump and restart impacted pods. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Deadline: submit monthly report by 4 PM", "body": "On-call engineer requires VPN access to perform fix. Approve temporary access immediately.", "label": "Urgent"}
+{"subject": "Sev1 paging: disk space critically low", "body": "DB pool exhaustion causing cascading failures. Increase pool size and identify long-running queries.", "label": "Urgent"}
+{"subject": "Deadline today: contract signature required", "body": "Memory usage climbing steadily leading to OOM kills. Collect heap dump and restart impacted pods. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Immediate fix required: login failures", "body": "Multiple clients experiencing 500s on /api/payments. Pager triggered. Join incident bridge and provide current status within 5 minutes. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Immediate action needed: security alert", "body": "Security scanner flagged critical CVE on production image. Patch and redeploy required before close of business. Tracking under ticket ID #9750", "label": "Urgent"}
+{"subject": "Immediate action needed: security alert", "body": "Monthly report due by 4 PM. Numbers need final verification before submission. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Escalation: customer cannot access account", "body": "Invoice generation job failed for all customers overnight. Rerun with fix and notify finance. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "System down: payment gateway failures", "body": "Deployment is blocked pending security approval. Please review the change request and approve if acceptable. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Urgent: incident bridge starting now", "body": "Data integrity checks failed for orders table. Potential partial writes detected. Freeze deploys and start recovery plan. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "High priority: data corruption detected", "body": "Error rate jumped above 10% after release 2.3. Roll back or hotfix ASAP. Provide ETA to stakeholders. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Urgent: SLA at risk for ticket 9821", "body": "On-call engineer requires VPN access to perform fix. Approve temporary access immediately.", "label": "Urgent"}
+{"subject": "Immediate fix required: login failures", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation. Will share updates in the channel.", "label": "Urgent"}
+{"subject": "Critical: service outage affecting checkout", "body": "Vendor returned redlines. Legal and PM to provide decisions within the hour. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Immediate review: vendor contract redlines", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation.", "label": "Urgent"}
+{"subject": "Production incident: API timeouts", "body": "Login requests timing out beyond SLA. Scale auth service and investigate connection pool saturation.", "label": "Urgent"}
+{"subject": "Sev1: database connection pool exhausted", "body": "Security scanner flagged critical CVE on production image. Patch and redeploy required before close of business. Please let us know if you need more context.", "label": "Urgent"}
+{"subject": "Urgent approval needed for deployment", "body": "Invoice generation job failed for all customers overnight. Rerun with fix and notify finance. Thanks in advance for your help.", "label": "Urgent"}
+{"subject": "Escalation: customer cannot access account", "body": "Vendor returned redlines. Legal and PM to provide decisions within the hour. Tracking under ticket ID #9591", "label": "Urgent"}
+{"subject": "Action item: add unit tests", "body": "Is it possible to extend the trial license by two weeks? Tracking under ticket ID #9827", "label": "Normal"}
+{"subject": "Check-in: Q3 roadmap alignment", "body": "Please clarify the acceptance criteria for the reporting feature before we estimate. Tracking under ticket ID #9100", "label": "Normal"}
+{"subject": "Review request: dashboard mockups", "body": "Feedback on the requirements draft would be appreciated. Tracking under ticket ID #9421", "label": "Normal"}
+{"subject": "Meeting reminder: sprint planning tomorrow", "body": "Please clarify the acceptance criteria for the reporting feature before we estimate. Tracking under ticket ID #9063", "label": "Normal"}
+{"subject": "Reminder: complete security training", "body": "Please clarify the acceptance criteria for the reporting feature before we estimate. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Check-in: Q3 roadmap alignment", "body": "Gentle nudge to respond on the thread so we can proceed. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Feedback requested on draft doc", "body": "Can you share the updated rollout plan and milestones for the feature? Tracking under ticket ID #9286", "label": "Normal"}
+{"subject": "Action item: add unit tests", "body": "We have a few questions about invoice #8815 format and tax codes. Please advise. Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Clarification needed on requirements", "body": "Reminder that sprint planning is tomorrow at 10 AM. Please update tickets beforehand. Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Request: provide error logs for ticket 3421", "body": "We have a few questions about invoice #8815 format and tax codes. Please advise. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Update requested: feature rollout plan", "body": "Feedback on the requirements draft would be appreciated. Tracking under ticket ID #9498", "label": "Normal"}
+{"subject": "Check-in: Q3 roadmap alignment", "body": "What times work for a 30-minute demo next week?", "label": "Normal"}
+{"subject": "Update requested: feature rollout plan", "body": "What times work for a 30-minute demo next week? Tracking under ticket ID #9003", "label": "Normal"}
+{"subject": "Info needed: billing address confirmation", "body": "Please grant temporary read-only access to the S3 bucket for auditing. Tracking under ticket ID #9293", "label": "Normal"}
+{"subject": "Nudge: please respond on thread", "body": "Is it possible to extend the trial license by two weeks? Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Schedule: move standup to 10:30", "body": "Checking alignment on the Q3 roadmap. Any changes to priorities?", "label": "Normal"}
+{"subject": "Doc update: API versioning notes", "body": "Gentle nudge to respond on the thread so we can proceed. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Meeting reminder: sprint planning tomorrow", "body": "Reminder that sprint planning is tomorrow at 10 AM. Please update tickets beforehand. Tracking under ticket ID #9599", "label": "Normal"}
+{"subject": "Status update on analytics ETL", "body": "Can you share the status of the analytics ETL pipeline?", "label": "Normal"}
+{"subject": "Status update on analytics ETL", "body": "We have a few questions about invoice #8815 format and tax codes. Please advise. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Follow-up: questions on invoice #8815", "body": "Following up on test results for build 210. Any blockers? Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Availability: propose time for demo", "body": "Please clarify the acceptance criteria for the reporting feature before we estimate. Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Action item: add unit tests", "body": "Updated API versioning notes are ready for review.", "label": "Normal"}
+{"subject": "Follow-up: test results for build 210", "body": "We have a few questions about invoice #8815 format and tax codes. Please advise. Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Doc update: API versioning notes", "body": "Can you share the status of the analytics ETL pipeline? Will share updates in the channel.", "label": "Normal"}
+{"subject": "Check-in: Q3 roadmap alignment", "body": "Reminder to complete the annual security training by Friday. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Availability: propose time for demo", "body": "Kindly review PR #155. Focus on error handling and pagination logic. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Request: grant temp access to S3 bucket", "body": "Reminder to complete the annual security training by Friday.", "label": "Normal"}
+{"subject": "Request: provide error logs for ticket 3421", "body": "Please grant temporary read-only access to the S3 bucket for auditing. Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Clarification needed on requirements", "body": "We have a few questions about invoice #8815 format and tax codes. Please advise. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Status update on analytics ETL", "body": "Could you confirm the billing address for the next invoice? Will share updates in the channel.", "label": "Normal"}
+{"subject": "Follow-up: questions on invoice #8815", "body": "Please add unit tests for the new helper functions before merging. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Update requested: feature rollout plan", "body": "Please grant temporary read-only access to the S3 bucket for auditing. Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Schedule: move standup to 10:30", "body": "Following up on test results for build 210. Any blockers? Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Request: provide error logs for ticket 3421", "body": "Gentle nudge to respond on the thread so we can proceed.", "label": "Normal"}
+{"subject": "Please review PR #155 before EOD", "body": "Could you confirm the billing address for the next invoice?", "label": "Normal"}
+{"subject": "Nudge: please respond on thread", "body": "Kindly review PR #155. Focus on error handling and pagination logic. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Follow-up: test results for build 210", "body": "Checking alignment on the Q3 roadmap. Any changes to priorities? Will share updates in the channel.", "label": "Normal"}
+{"subject": "Check-in: Q3 roadmap alignment", "body": "Could you confirm the billing address for the next invoice? Tracking under ticket ID #9518", "label": "Normal"}
+{"subject": "Info needed: billing address confirmation", "body": "Reminder that sprint planning is tomorrow at 10 AM. Please update tickets beforehand. Tracking under ticket ID #9095", "label": "Normal"}
+{"subject": "Info needed: billing address confirmation", "body": "Reminder that sprint planning is tomorrow at 10 AM. Please update tickets beforehand. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Please review PR #155 before EOD", "body": "Could you confirm the billing address for the next invoice? Tracking under ticket ID #9166", "label": "Normal"}
+{"subject": "Nudge: please respond on thread", "body": "Feedback on the requirements draft would be appreciated.", "label": "Normal"}
+{"subject": "Nudge: please respond on thread", "body": "Reminder that sprint planning is tomorrow at 10 AM. Please update tickets beforehand. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Doc update: API versioning notes", "body": "Gentle nudge to respond on the thread so we can proceed. Tracking under ticket ID #9152", "label": "Normal"}
+{"subject": "Please review PR #155 before EOD", "body": "Reminder that sprint planning is tomorrow at 10 AM. Please update tickets beforehand. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Meeting reminder: sprint planning tomorrow", "body": "Requesting feedback on the new dashboard mockups attached. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Clarification needed on requirements", "body": "Requesting feedback on the new dashboard mockups attached. Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Feedback requested on draft doc", "body": "Following up on test results for build 210. Any blockers? Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Action item: add unit tests", "body": "Can you share the updated rollout plan and milestones for the feature? Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Feedback requested on draft doc", "body": "Could you attach the latest error logs so we can proceed with debugging? Target response by tomorrow noon. Will share updates in the channel.", "label": "Normal"}
+{"subject": "Feedback requested on draft doc", "body": "Please add unit tests for the new helper functions before merging. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Clarification needed on requirements", "body": "What times work for a 30-minute demo next week?", "label": "Normal"}
+{"subject": "Question: can we extend the trial?", "body": "Please add unit tests for the new helper functions before merging. Tracking under ticket ID #9205", "label": "Normal"}
+{"subject": "Review request: dashboard mockups", "body": "Proposing to move daily standup to 10:30 this week due to conflicts. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Action item: add unit tests", "body": "Could you attach the latest error logs so we can proceed with debugging? Target response by tomorrow noon. Please let us know if you need more context.", "label": "Normal"}
+{"subject": "Availability: propose time for demo", "body": "Reminder to complete the annual security training by Friday.", "label": "Normal"}
+{"subject": "Info needed: billing address confirmation", "body": "Requesting feedback on the new dashboard mockups attached. Thanks in advance for your help.", "label": "Normal"}
+{"subject": "Availability: propose time for demo", "body": "Gentle nudge to respond on the thread so we can proceed.", "label": "Normal"}
+{"subject": "Share: blog post on best practices", "body": "Archived old reports; ping if you need anything restored. Thanks in advance for your help.", "label": "Low"}
+{"subject": "FYI: archived old reports folder", "body": "Elevator maintenance scheduled for Friday evening. Building access unaffected. Thanks in advance for your help.", "label": "Low"}
+{"subject": "Reminder: optional survey this week", "body": "Documentation links have been updated for clarity. Will share updates in the channel.", "label": "Low"}
+{"subject": "Reminder: optional survey this week", "body": "Community highlights from this week are summarized here.", "label": "Low"}
+{"subject": "Share: tips for local dev setup", "body": "Company swag order is arriving next week. Will share updates in the channel.", "label": "Low"}
+{"subject": "FYI: office maintenance Friday evening", "body": "Optional employee survey will run this week. Thanks in advance for your help.", "label": "Low"}
+{"subject": "FYI: cleanup script completed", "body": "We plan minor copy tweaks in the UI next sprint. Tracking under ticket ID #9373", "label": "Low"}
+{"subject": "Heads up: community meetup next month", "body": "Q2 retro notes are available in the wiki for reference. Will share updates in the channel.", "label": "Low"}
+{"subject": "Share: blog post on best practices", "body": "Design newsletter with highlights from this week. Will share updates in the channel.", "label": "Low"}
+{"subject": "Reminder: optional survey this week", "body": "Q2 retro notes are available in the wiki for reference. Will share updates in the channel.", "label": "Low"}
+{"subject": "FYI: cleanup script completed", "body": "New wallpaper options are available for the common area. Tracking under ticket ID #9197", "label": "Low"}
+{"subject": "Share: tips for local dev setup", "body": "Cafeteria menu has minor changes; check the portal for details. Thanks in advance for your help.", "label": "Low"}
+{"subject": "Newsletter: design highlights", "body": "Collected tips for faster local development setup.", "label": "Low"}
+{"subject": "Newsletter: design highlights", "body": "Design newsletter with highlights from this week. Tracking under ticket ID #9216", "label": "Low"}
+{"subject": "Heads up: swag order arriving", "body": "Community highlights from this week are summarized here. Will share updates in the channel.", "label": "Low"}
+{"subject": "Announcement: holiday schedule", "body": "Holiday schedule announced; offices closed next Friday. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Share: webinar recording available", "body": "Heads up: library upgrades planned but no action needed. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Heads up: community meetup next month", "body": "Design newsletter with highlights from this week. Thanks in advance for your help.", "label": "Low"}
+{"subject": "For reference: Q2 retrospective notes", "body": "There will be a community meetup next month. Details to follow. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Newsletter: design highlights", "body": "Sharing team outing photos from last weekend. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Announcement: new wallpaper options", "body": "Here are this week's product updates and community news. No immediate action is required. Please let us know if you need more context.", "label": "Low"}
+{"subject": "FYI: library upgrades next sprint", "body": "Community highlights from this week are summarized here.", "label": "Low"}
+{"subject": "Announcement: holiday schedule", "body": "Optional employee survey will run this week. Thanks in advance for your help.", "label": "Low"}
+{"subject": "Note: minor UI copy tweaks planned", "body": "Collected tips for faster local development setup. Tracking under ticket ID #9507", "label": "Low"}
+{"subject": "Heads up: team outing photos", "body": "New wallpaper options are available for the common area.", "label": "Low"}
+{"subject": "Share: blog post on best practices", "body": "Optional employee survey will run this week. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Share: webinar recording available", "body": "Holiday schedule announced; offices closed next Friday. Thanks in advance for your help.", "label": "Low"}
+{"subject": "Heads up: team outing photos", "body": "Sharing a blog post covering best practices we found useful. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Announcement: holiday schedule", "body": "Webinar recording is now available to watch on demand. Thanks in advance for your help.", "label": "Low"}
+{"subject": "For reference: Q2 retrospective notes", "body": "Holiday schedule announced; offices closed next Friday. Thanks in advance for your help.", "label": "Low"}
+{"subject": "Reminder: optional survey this week", "body": "Cleanup script completed successfully overnight. Please let us know if you need more context.", "label": "Low"}
+{"subject": "FYI: library upgrades next sprint", "body": "Holiday schedule announced; offices closed next Friday. Please let us know if you need more context.", "label": "Low"}
+{"subject": "FYI: archived old reports folder", "body": "Webinar recording is now available to watch on demand. Please let us know if you need more context.", "label": "Low"}
+{"subject": "FYI: archived old reports folder", "body": "Holiday schedule announced; offices closed next Friday. Will share updates in the channel.", "label": "Low"}
+{"subject": "Heads up: team outing photos", "body": "Archived old reports; ping if you need anything restored. Will share updates in the channel.", "label": "Low"}
+{"subject": "FYI: cleanup script completed", "body": "There will be a community meetup next month. Details to follow. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Heads up: team outing photos", "body": "Collected tips for faster local development setup. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Note: minor UI copy tweaks planned", "body": "There will be a community meetup next month. Details to follow. Tracking under ticket ID #9425", "label": "Low"}
+{"subject": "For reference: Q2 retrospective notes", "body": "Cleanup script completed successfully overnight. Tracking under ticket ID #9478", "label": "Low"}
+{"subject": "FYI: office maintenance Friday evening", "body": "We plan minor copy tweaks in the UI next sprint. Tracking under ticket ID #9853", "label": "Low"}
+{"subject": "Share: tips for local dev setup", "body": "Company swag order is arriving next week.", "label": "Low"}
+{"subject": "Heads up: swag order arriving", "body": "Collected tips for faster local development setup.", "label": "Low"}
+{"subject": "FYI: documentation link updates", "body": "Design newsletter with highlights from this week. Tracking under ticket ID #9772", "label": "Low"}
+{"subject": "Reminder: optional survey this week", "body": "Cleanup script completed successfully overnight. Thanks in advance for your help.", "label": "Low"}
+{"subject": "Newsletter: community highlights", "body": "Sharing team outing photos from last weekend. Please let us know if you need more context.", "label": "Low"}
+{"subject": "FYI: archived old reports folder", "body": "Optional employee survey will run this week.", "label": "Low"}
+{"subject": "Share: tips for local dev setup", "body": "Q2 retro notes are available in the wiki for reference. Tracking under ticket ID #9685", "label": "Low"}
+{"subject": "FYI: cafeteria menu change", "body": "Holiday schedule announced; offices closed next Friday. Please let us know if you need more context.", "label": "Low"}
+{"subject": "Newsletter: community highlights", "body": "Cleanup script completed successfully overnight. Tracking under ticket ID #9028", "label": "Low"}
+{"subject": "Heads up: swag order arriving", "body": "Company swag order is arriving next week.", "label": "Low"}
+{"subject": "Heads up: community meetup next month", "body": "Optional employee survey will run this week. Tracking under ticket ID #9139", "label": "Low"}
+{"subject": "FYI: cafeteria menu change", "body": "Elevator maintenance scheduled for Friday evening. Building access unaffected. Tracking under ticket ID #9267", "label": "Low"}
+{"subject": "For reference: Q2 retrospective notes", "body": "We plan minor copy tweaks in the UI next sprint. Will share updates in the channel.", "label": "Low"}
+{"subject": "For reference: Q2 retrospective notes", "body": "Collected tips for faster local development setup. Tracking under ticket ID #9285", "label": "Low"}
+{"subject": "FYI: archived old reports folder", "body": "There will be a community meetup next month. Details to follow.", "label": "Low"}
+{"subject": "FYI: cleanup script completed", "body": "Elevator maintenance scheduled for Friday evening. Building access unaffected. Will share updates in the channel.", "label": "Low"}
+{"subject": "Heads up: team outing photos", "body": "There will be a community meetup next month. Details to follow.", "label": "Low"}
+{"subject": "Weekly newsletter: product updates", "body": "Sharing team outing photos from last weekend.", "label": "Low"}
+{"subject": "Newsletter: community highlights", "body": "New wallpaper options are available for the common area. Please let us know if you need more context.", "label": "Low"}
+{"subject": "FYI: library upgrades next sprint", "body": "Sharing a blog post covering best practices we found useful. Please let us know if you need more context.", "label": "Low"}
